@@ -1,3 +1,7 @@
+/*this is a program that will sort an array
+using quick sort method*/
+
+
 #include<iostream>
 #include<functional>
 
